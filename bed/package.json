@@ -1,0 +1,48 @@
+{
+  "name": "bed",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "echarts": "^4.0.4",
+    "eruda": "^2.3.3",
+    "jquery": "^3.5.0",
+    "mitt": "^2.1.0",
+    "module": "^1.2.5",
+    "moment": "^2.24.0",
+    "pdfjs-dist": "^2.4.456",
+    "qrcodejs": "^1.0.0",
+    "qrcodejs2": "0.0.2",
+    "swiper": "^5.3.7",
+    "vconsole": "^3.3.4",
+    "video.js": "^7.8.2",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.0",
+    "vue-js-modal": "^2.0.0-rc.3",
+    "vue-router": "^3.1.6",
+    "vuex": "^3.3.0",
+    "vuex-persist": "^2.2.0",
+    "worker-loader": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.3.0",
+    "@vue/cli-plugin-eslint": "^4.3.0",
+    "@vue/cli-plugin-router": "^4.3.0",
+    "@vue/cli-service": "^4.3.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
